@@ -11,3 +11,5 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\nodejs\\npm-cmd.bat"
 }`
 
+### Screenshot
+![screenshot](https://raw.githubusercontent.com/chintan3/vscodetest/master/Capture.PNG) 
